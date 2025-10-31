@@ -18,4 +18,8 @@ public class CustomList {
         // Adding hasCity method
         return cities.contains(city);
     }
+
+    public void deleteCity(City city) {
+        cities.remove(city);
+    }
 }
