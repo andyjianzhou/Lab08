@@ -1,6 +1,7 @@
 package com.example.lab08;
 
 public class City {
+    // This is a city class
     private String city;
     private String province;
 
